@@ -8,6 +8,5 @@
 * порода, деревьев которой меньше всего 
 * порода дерева, встречающаяся на всех аллеях заданного парка 
 * аллея, на которой растут липы, но нет клѐнов
-* 
 ### Физическая модель БД:
-![image](https://github.com/ArtemVerzun/SAOD/assets/143192676/03f9b879-f3b4-402b-b226-d48defbac7bb)\
+![image](https://github.com/ArtemVerzun/SAOD/assets/143192676/03f9b879-f3b4-402b-b226-d48defbac7bb)
